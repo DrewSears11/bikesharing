@@ -1,6 +1,6 @@
 NY Bikesharing Analysis
 
-https://public.tableau.com/shared/BQJ2FW4XF?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/drew.sears/viz/NYCBikeAnalysis_16650816194200/Story-NYCBikeAnalysis?publish=yes
 
 #1. Overview of the statistical analysis
 	-The purpose of this analsyis was to help our friend use data from New York's city bike sharing and see if we can draw some conclusions
@@ -20,6 +20,7 @@ https://public.tableau.com/shared/BQJ2FW4XF?:display_count=n&:origin=viz_share_l
 	- The last two graphs show the most popular starting and ending locations in New York City.  There is not a lot of difference in these two
 	  graphs.  We can conclude that the average user didn't travel very far.  Also the first graph which showed the average ride being fairly
 	  low (between 3 and 7 minutes)also backs this up.
+
 #3. Summary
 	- Based off of what we learned we can conclude that for our start up in Iowa, the best time to do maintenance on the bikes would be during
 	  the off hours which is extremely early in the morning.  We can see the average ride isn't very far as well, so we should concentrate 
