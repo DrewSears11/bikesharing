@@ -2,12 +2,12 @@ NY Bikesharing Analysis
 
 https://public.tableau.com/app/profile/drew.sears/viz/NYCBikeAnalysis_16650816194200/Story-NYCBikeAnalysis?publish=yes
 
-#1. Overview of the statistical analysis
+1. Overview of the statistical analysis
 	
--The purpose of this analsyis was to help our friend use data from New York's city bike sharing and see if we can draw some conclusions
+- The purpose of this analsyis was to help our friend use data from New York's city bike sharing and see if we can draw some conclusions
  that would give us the best chance for success to launch the same business model in Des Moines, Iowa.
 
-#2. Results
+2. Results
 	
 - As you can see from the Table story (link up) the first graph shows the length of time each bike was checked out per ride.  You can see
   the most common time a bike was checked out was between 3 and 7 minutes.
@@ -28,7 +28,7 @@ https://public.tableau.com/app/profile/drew.sears/viz/NYCBikeAnalysis_1665081619
   graphs.  We can conclude that the average user didn't travel very far.  Also the first graph which showed the average ride being fairly
    low (between 3 and 7 minutes)also backs this up.
 
-#3. Summary
+3. Summary
 	
 - Based off of what we learned we can conclude that for our start up in Iowa, the best time to do maintenance on the bikes would be during
   the off hours which is extremely early in the morning.  We can see the average ride isn't very far as well, so we should concentrate 
