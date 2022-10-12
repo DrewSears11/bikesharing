@@ -14,7 +14,7 @@ https://public.tableau.com/app/profile/drew.sears/viz/NYCBikeAnalysis_1665081619
   ![image](https://user-images.githubusercontent.com/108240844/195401384-98225f0b-5763-4a4f-9386-53ef43aad2be.png)
 
 	  
-- The second graph shows the same graph but specifies by gender.  You can see the lenght is generally the same but there is about twice as
+- The second graph shows the same graph but specifies by gender.  You can see the length is generally the same but there is about twice as
    many male riders and female riders
    ![image](https://user-images.githubusercontent.com/108240844/195401466-312ed79d-57f0-43f3-8f32-f4d4351c7e11.png)
 
